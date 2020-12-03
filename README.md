@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+<img src="src/img/Banner.png">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+# Descripción del reto
+  
+  Desarrollar una plataforma virtual, para  la administración eficaz de los oficios que recibe TGP , por parte de los entes reguladores.
 
-### `npm start`
+ # Historias de Usuario
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+ HU1: Yo como usuario de la plataforma Reducer, quiero poder registrarme e ingresar  con mi correo institucional para poder tener un control adecuado de los oficios.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+ HU2: Yo como usuario de la plataforma Reducer, quiero poder subir los oficios con sus respectivos campos de identificación, para poder buscarlo fácilmente.
 
-### `npm test`
+ HU3: Yo como usuario de la plataforma Reducer, quiero poder buscar un oficio por una palabra clave, el número de expediente, por motivo, etc.Para poder acceder a la información rápidamente y revisar los sucesos que se han desarrollado con los oficios.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  HU3: Yo como usuario de la plataforma Reducer, quiero poder agregar tareas con respecto a los requisitos para dar respuesta al oficio y saber quien esta cargado de  cada una de las tareas y la fecha plazo para su cumplimiento.
 
-### `npm run build`
+  HU3: Yo como usuario de la plataforma Reducer, quiero poder agregar información adicional a media que transcurre el proceso del oficio, para poder administrar correctamente el expediente.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  HU4: Yo como usuario de la plataforma Reducer, quiero poder visualizar notificaciones tipo semáforo, para saber cuales tareas tiene fecha próxima a vencerse. 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  # Demo del proyecto
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  Este proyecto fue realizado con React, Bootstrap, y Firebase. [Reducer](https://tgp-legal.web.app/).
 
-### `npm run eject`
+# Prototipo Figma
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+La plataforma Reducer fue desarrollada, teniendo en cuenta la imagen corporativa de TGP. [Demo](https://www.figma.com/proto/8zKc6ZwOq8vTClI7LpuRvU/prototipo-final?node-id=110%3A12&scaling=scale-down-width).
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img src="src/img/vista1.png">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<img src="src/img/vista2.png">
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Equipo UX/UI y desarrollo
 
-## Learn More
+[Jael Rodriguez ](https://github.com/jael-VRR) - Frontend Developer
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[Diana Olarte](https://github.com/dcoa) - Frontend Developer
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[Tatiana Toro](https://github.com/tatianatorog) -  Frontend Developer
 
-### Code Splitting
+[Guadalupe Larios](gdlp.larios@gmail.com) - UI/UX Designer
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+# Proyecto realizado para Legal Hackaton - Laboratoria 2020
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<img src="src/img/legal-hackaton-logo.png">
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

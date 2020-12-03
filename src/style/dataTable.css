@@ -1,0 +1,55 @@
+.header {
+    --main-bg-color:#0DADCC;
+    --primary-bg-color:#ffff;
+    --secundary-bg-color:#grey;
+  }
+
+.header{
+    background-color: var(--main-bg-color);
+    color:var(--primary-bg-color);
+}
+.table-bordered{
+   
+    margin: 130px 0px 0px 50px;
+}
+.wrapper{
+    width: 85vw;
+}
+.table-body{
+    
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.04em;
+}
+.row-home{
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.table-body{
+    font-size:14px;
+}
+
+td{
+    padding: .55rem;
+}
+
+.btn-primary{
+  width:150px;
+}
+
+.container-tabla{
+    width: 81vw;
+    min-width: 800px;
+    overflow-x: scroll;
+    height:35vw;
+    min-height: 500px;
+    overflow-y: scroll;
+}
+
+.page-2{
+    height:100vh;
+}
+.btn-link{
+    font-size:14px;
+}

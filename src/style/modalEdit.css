@@ -1,0 +1,20 @@
+.modal-flex{
+    display: flex;
+    margin-left:15px;
+}
+
+.modal-item{
+    margin-left: 15px;
+}
+
+.modal-text{
+    margin-left: 80px;
+}
+
+.btn-modal-edit{
+    background-color:#0085ad
+}
+
+.modal-title{
+   color: white;
+}

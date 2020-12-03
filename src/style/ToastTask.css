@@ -1,0 +1,33 @@
+.relax {
+    
+    background-color: #a4d65e !important;
+}
+
+.relax > .toast-header {
+    color: #FFFFFF;
+    background-color: #759943 !important;
+}
+
+.warn {
+    
+    background-color: #ffd600 !important;
+}
+
+.warn > .toast-header {
+    color: #FFFFFF;
+    background-color: #ed8500 !important;
+}
+
+.fail { 
+    color: #FFFFFF;
+    background-color:#cc5e52 !important;
+}
+.fail{
+    opacity: .5;
+    overflow: hidden;
+}
+
+.fail > .toast-header {
+    color: #FFFFFF;
+    background-color: #c24031 !important;
+}

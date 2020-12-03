@@ -1,0 +1,142 @@
+.text-center{
+    margin-top: 70px;
+}
+.box-container{
+    font-size: 10px;
+}
+.button-container{
+    display: flex;
+    width: 80vw;
+}
+.table-bordered {
+    margin: 0 30px !important;
+}
+.add {
+    margin: 30px 30px 30px auto ;
+    background-color:#0DADCC !important;
+    border-color:#0DADCC !important;
+    color: #ffff;
+}
+.form-searcher{
+    position:absolute;
+    border-radius: 20px;
+    margin: 40px 150px -100px 45px;
+    width:400px;
+    border:none;
+    font-size:12px;
+    height: 37px;
+}
+.icon-user{
+    margin: 40px 0px 10px 1020px;
+    
+}
+.notification-container{
+    z-index: 1;
+    width: 400px;
+    height: auto;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.tabla-item{
+    text-transform: uppercase;
+}
+
+
+.box-container{
+    font-size: 10px;
+}
+.button-container{
+    display: flex;
+    width: 100%;
+}
+
+.add {
+    margin: 0px 0px -80px 1045px;
+    background-color:#0DADCC !important;
+    border-color:#0DADCC !important;
+    color: #ffff;
+}
+
+.form-searcher{
+    position:absolute;
+    border-radius: 10px;
+    margin: 40px 150px -100px 45px;
+    width:400px;
+    height: 40px;
+    border:none;
+    font-size:12px;
+}
+.icon-user{
+    margin: 40px 0px 10px 1020px;
+    
+}
+.notification-container{
+    z-index: 1;
+    width: 400px;
+    height: auto;
+    position: absolute;
+    right: 0;
+    top: 0;
+    box-sizing: border-box;
+}
+
+.tabla-item{
+    text-transform: uppercase;
+}
+
+.table-bordered td, .table-bordered th {
+    border: none;
+}
+
+.text-center{
+    margin-top: 70px;
+}
+.box-container{
+    text-transform: uppercase;
+    color: #575756;
+    font-weight: bold;
+}
+
+.table-bordered {
+    margin: 0 30px !important;
+}
+.add {
+    margin: 30px 30px 30px auto ;
+    background-color:#0DADCC !important;
+    border-color:#0DADCC !important;
+    color: #ffff;
+}
+.form-searcher{
+   
+    position:absolute;
+    border-radius: 20px;
+    margin: 40px 150px -100px 45px;
+    width:400px;
+    border:none;
+    font-size:12px;
+    height: 37px;
+}
+.icon-user{
+    margin: 40px 0px 10px 1020px;
+    
+}
+.notification-container{
+    z-index: 1;
+    width: 400px;
+    height: auto;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.tabla-item{
+    text-transform: uppercase;
+}
+
+
+
+.row-home{
+    width: 80vw;
+  }
